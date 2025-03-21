@@ -9,3 +9,7 @@ This dashboard provides insights into the customer onboarding and conversion pro
 - Total Users: 8,460
 - Users in Trial Period: 1,948
 - Users Who Made a Payment: 577
+
+## Dashboard
+- <a href="https://github.com/Max-Orel/Data-Analysis-Dashboard/blob/main/onboarding_analysis.png">Tablue Linkt</a>
+- <a href="https://github.com/Max-Orel/Data-Analysis-Dashboard/blob/main/onboarding_analysis.twbx">PNG file</a>
