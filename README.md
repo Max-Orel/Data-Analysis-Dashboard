@@ -31,4 +31,4 @@ This dashboard provides insights into the customer onboarding and conversion pro
 - Implement strategies to increase trial-to-payment conversions.
 
 ## Author
-- <a href="https://github.com/Max-Orel/Data-Analysis-Dashboard/commits?author=Max-Orel">Maksym Orlov</a>
+- <a href="https://github.com/Max-Orel">Maksym Orlov</a>
